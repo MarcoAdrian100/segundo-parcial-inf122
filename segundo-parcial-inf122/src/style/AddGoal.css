@@ -15,10 +15,10 @@
   
   .add-goal-button {
     padding: 10px 20px;
-    background-color: green;
+    background-color: #1C9675;
     border: none;
     border-radius: 5px;
-    color: white;
+    color: #F6F7F9;
     cursor: pointer;
   }
   
