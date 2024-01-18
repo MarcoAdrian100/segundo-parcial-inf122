@@ -1,0 +1,15 @@
+.goal-counter {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+  }
+  
+  .completed-count, .pending-count {
+    padding: 10px;
+    font-weight: bold;
+    background-color: #F6F7F9;
+    border-radius: 15px;
+    padding-left: 30px;
+    padding-right: 130px;
+  }
+  
