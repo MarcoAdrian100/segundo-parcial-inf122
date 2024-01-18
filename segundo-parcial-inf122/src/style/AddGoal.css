@@ -5,6 +5,8 @@
   }
   
   .add-goal-input {
+    margin-right: -1px;
+    border-right: none;
     padding: 10px;
     background-color: #F6F7F9;
     margin-right: 10px;
@@ -17,8 +19,9 @@
     padding: 10px 20px;
     background-color: #1C9675;
     border: none;
-    border-radius: 5px;
+    border-radius: 7px;
     color: #F6F7F9;
     cursor: pointer;
+    border-left: none;
   }
   
